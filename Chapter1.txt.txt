@@ -1,2 +1,2 @@
-This is the first chapter
-Welcome to the book
+This is chapter one
+editor: make some more fun stuff
